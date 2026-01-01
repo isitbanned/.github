@@ -2,7 +2,7 @@
 
 **Understand Your Food.**
 
-We're building tools to help families make informed food choices by showing how ingredients are regulated around the world.
+We're building tools to help people make informed food choices by showing how ingredients are regulated around the world.
 
 ---
 
