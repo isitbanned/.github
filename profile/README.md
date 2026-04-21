@@ -8,4 +8,4 @@ We're building tools to help people make informed food choices by showing how in
 
 This organization contains private repositories.
 
-For inquiries, contact us at hello@isitbanned.com
+For inquiries, contact us at [iibofficial.com](https://iibofficial.com/)
